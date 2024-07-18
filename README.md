@@ -40,6 +40,12 @@ This repository provides a set of configuration files and a script to set up a P
 
 `apachectl start`
 
+## Run and Start MySQL
+
+> start mysql
+
+`mysql -u $(whoami)`
+
 ## Stop Server
 
 > Terminate running mysql 
