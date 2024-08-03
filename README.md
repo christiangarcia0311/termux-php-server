@@ -72,7 +72,7 @@ This repository provides a set of configuration files and a script to set up a P
 
 ## Contact
 
-For issues, please open an issue on GitHub. Contributions, feature requests, and feedback are all welcome!
+For issues, please open an issue on GitHub.
 
 
 
